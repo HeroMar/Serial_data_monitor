@@ -28,4 +28,4 @@ Example of correct data frame sent to the app:
 2) Two datasets: "DS1,DS2\\nDS1,DS2\\nDS1,DS2..."
 
 ## 5. Showcase
-![Alt text](Images/GIF/SDM_GIF.gif)
+![SDM_GIF](https://user-images.githubusercontent.com/124864704/224488412-095dac40-b89f-49d7-91a6-83dd3ad7ad28.gif)
